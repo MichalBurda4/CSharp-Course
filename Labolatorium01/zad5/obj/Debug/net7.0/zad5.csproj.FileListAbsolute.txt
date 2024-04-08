@@ -1,0 +1,14 @@
+C:\PZ2\Labolatorium01\zad5\bin\Debug\net7.0\zad5.exe
+C:\PZ2\Labolatorium01\zad5\bin\Debug\net7.0\zad5.deps.json
+C:\PZ2\Labolatorium01\zad5\bin\Debug\net7.0\zad5.runtimeconfig.json
+C:\PZ2\Labolatorium01\zad5\bin\Debug\net7.0\zad5.dll
+C:\PZ2\Labolatorium01\zad5\bin\Debug\net7.0\zad5.pdb
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\zad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\zad5.AssemblyInfoInputs.cache
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\zad5.AssemblyInfo.cs
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\zad5.csproj.CoreCompileInputs.cache
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\zad5.dll
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\refint\zad5.dll
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\zad5.pdb
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\zad5.genruntimeconfig.cache
+C:\PZ2\Labolatorium01\zad5\obj\Debug\net7.0\ref\zad5.dll
