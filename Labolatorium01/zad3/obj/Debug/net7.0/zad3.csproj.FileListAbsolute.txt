@@ -1,0 +1,14 @@
+C:\PZ2\Labolatorium01\zad3\bin\Debug\net7.0\zad3.exe
+C:\PZ2\Labolatorium01\zad3\bin\Debug\net7.0\zad3.deps.json
+C:\PZ2\Labolatorium01\zad3\bin\Debug\net7.0\zad3.runtimeconfig.json
+C:\PZ2\Labolatorium01\zad3\bin\Debug\net7.0\zad3.dll
+C:\PZ2\Labolatorium01\zad3\bin\Debug\net7.0\zad3.pdb
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\zad3.AssemblyInfoInputs.cache
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\zad3.AssemblyInfo.cs
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\zad3.csproj.CoreCompileInputs.cache
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\zad3.dll
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\refint\zad3.dll
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\zad3.pdb
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\zad3.genruntimeconfig.cache
+C:\PZ2\Labolatorium01\zad3\obj\Debug\net7.0\ref\zad3.dll
