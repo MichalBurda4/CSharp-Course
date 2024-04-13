@@ -1,0 +1,17 @@
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.AssemblyInfoInputs.cache
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.AssemblyInfo.cs
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.csproj.CoreCompileInputs.cache
+C:\PZ2\laby3\zadanie\bin\Debug\net7.0\zadanie.exe
+C:\PZ2\laby3\zadanie\bin\Debug\net7.0\zadanie.deps.json
+C:\PZ2\laby3\zadanie\bin\Debug\net7.0\zadanie.runtimeconfig.json
+C:\PZ2\laby3\zadanie\bin\Debug\net7.0\zadanie.dll
+C:\PZ2\laby3\zadanie\bin\Debug\net7.0\zadanie.pdb
+C:\PZ2\laby3\zadanie\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.csproj.AssemblyReference.cache
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.csproj.CopyComplete
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.dll
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\refint\zadanie.dll
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.pdb
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\zadanie.genruntimeconfig.cache
+C:\PZ2\laby3\zadanie\obj\Debug\net7.0\ref\zadanie.dll
