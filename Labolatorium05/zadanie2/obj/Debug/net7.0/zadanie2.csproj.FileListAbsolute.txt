@@ -1,0 +1,14 @@
+C:\PZ2\Labolatorium05\zadanie2\bin\Debug\net7.0\zadanie2.exe
+C:\PZ2\Labolatorium05\zadanie2\bin\Debug\net7.0\zadanie2.deps.json
+C:\PZ2\Labolatorium05\zadanie2\bin\Debug\net7.0\zadanie2.runtimeconfig.json
+C:\PZ2\Labolatorium05\zadanie2\bin\Debug\net7.0\zadanie2.dll
+C:\PZ2\Labolatorium05\zadanie2\bin\Debug\net7.0\zadanie2.pdb
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\zadanie2.AssemblyInfoInputs.cache
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\zadanie2.AssemblyInfo.cs
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\zadanie2.csproj.CoreCompileInputs.cache
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\zadanie2.dll
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\refint\zadanie2.dll
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\zadanie2.pdb
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\zadanie2.genruntimeconfig.cache
+C:\PZ2\Labolatorium05\zadanie2\obj\Debug\net7.0\ref\zadanie2.dll
